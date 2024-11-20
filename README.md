@@ -1,0 +1,1 @@
+Expense Tracker is a user-friendly application designed to help people manage their finances.
